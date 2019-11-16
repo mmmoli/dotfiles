@@ -33,9 +33,9 @@ if [[ `uname` == 'Darwin' ]]; then
   fi
 
   # Homebrew packages.
-  brew install diff-so-fancy gnupg htop node pbzip2 python python@2 ruby postgresql wget
+  brew install diff-so-fancy node python python@2 wget
   # echo 'Tweaking macOS...'
-    # source 'etc/macos.sh'
+    source 'etc/macos.sh'
 
   # https://github.com/sindresorhus/quick-look-plugins
   # echo 'Installing Quick Look plugins...'

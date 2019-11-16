@@ -1,10 +1,9 @@
 [user]
-  name = Paul Miller
-  email = paul@paulmillr.com
-  signingkey = 61280CD9A383C2E5
+  name = Michele Memoli
+  email = michele@100shapes.com
 
 [github]
-  user = paulmillr
+  user = mmmoli
 
 [alias]
   discard = reset --hard HEAD 
