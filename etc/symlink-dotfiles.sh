@@ -1,6 +1,6 @@
 #!/bin/sh
 
-dev="$HOME/Developer"
+dev="$HOME/Projects"
 dotfiles="$dev/dotfiles"
 
 echo ""
