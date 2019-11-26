@@ -31,7 +31,7 @@
   ui = true
 
 [core]
-  editor = code
+  editor = code --wait
   excludesfile = ~/.gitignore
   pager = diff-so-fancy | less --tabs=4 -RFX 
 
